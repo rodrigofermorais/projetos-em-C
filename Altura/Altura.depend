@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605826376 source:c:\users\rodrigo\desktop\projetos em c\newteste\altura\main.c
+	<stdio.h>
+	<stdlib.h>
+
